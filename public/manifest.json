@@ -1,11 +1,12 @@
 {
-    "short_name": "Weather App",
-    "name": "Weather App PWA",
+    "short_name": "Weather-Cync",
+    "name": "Weather-App-PWA",
     "icons": [
         {
-            "src": "/img/logo.png",
-            "type": "img/png",
-            "sizes": "1024x1024"
+            "src": "./img/logo.png",
+            "type": "image/png",
+            "sizes": "1024x1024",
+            "purpose": "any"
         }
     ],
     "start_url": ".",
